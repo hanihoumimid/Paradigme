@@ -1,0 +1,20 @@
+{
+    "test": {
+        "5": {
+            "Flight_ID": "V929",
+            "Class": "Economique"
+        },
+        "3": {
+            "Flight_ID": "V929",
+            "Class": "Touriste"
+        },
+        "2": {
+            "Flight_ID": "V929",
+            "Class": "Business"
+        },
+        "4": {
+            "Flight_ID": "V157",
+            "Class": "Economique"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "test": {
+        "Business": {
+            "Client_ID": "1031",
+            "Flight_ID": "V790"
+        },
+        "Touriste": {
+            "Client_ID": "1017",
+            "Flight_ID": "V890"
+        },
+        "Economique": {
+            "Client_ID": "1002",
+            "Flight_ID": "V901"
+        }
+    }
+}

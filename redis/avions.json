@@ -1,0 +1,84 @@
+{
+    "test": {
+        "150": {
+            "PlaneID": "715",
+            "PlaneType": "Airbus A310"
+        },
+        "500": {
+            "PlaneID": "325",
+            "PlaneType": "Antonov"
+        },
+        "300": {
+            "PlaneID": "240",
+            "PlaneType": "Boeing 737"
+        },
+        "220": {
+            "PlaneID": "256",
+            "PlaneType": "Boeing 747"
+        },
+        "350": {
+            "PlaneID": "101",
+            "PlaneType": "Boeing 707"
+        },
+        "30": {
+            "PlaneID": "320",
+            "PlaneType": "Falcon 900"
+        },
+        "200": {
+            "PlaneID": "210",
+            "PlaneType": "Dc10"
+        },
+        "100": {
+            "PlaneID": "801",
+            "PlaneType": "Concorde"
+        },
+        "255": {
+            "PlaneID": "614",
+            "PlaneType": "Dc20"
+        },
+        "80": {
+            "PlaneID": "615",
+            "PlaneType": "Caravelle"
+        },
+        "295": {
+            "PlaneID": "660",
+            "PlaneType": "Dc20"
+        },
+        "40": {
+            "PlaneID": "122",
+            "PlaneType": "Falcon 900"
+        },
+        "580": {
+            "PlaneID": "620",
+            "PlaneType": "Antonov"
+        },
+        "380": {
+            "PlaneID": "811",
+            "PlaneType": "Caravelle"
+        },
+        "265": {
+            "PlaneID": "311",
+            "PlaneType": "Dc10"
+        },
+        "130": {
+            "PlaneID": "411",
+            "PlaneType": "Tupolev"
+        },
+        "280": {
+            "PlaneID": "511",
+            "PlaneType": "Airbus A320"
+        },
+        "270": {
+            "PlaneID": "525",
+            "PlaneType": "Airbus A320"
+        },
+        "370": {
+            "PlaneID": "535",
+            "PlaneType": "Airbus A330"
+        },
+        "250": {
+            "PlaneID": "560",
+            "PlaneType": "Airbus A320"
+        }
+    }
+}

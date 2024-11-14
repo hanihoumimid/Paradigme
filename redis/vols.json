@@ -1,0 +1,28 @@
+{
+    "test": {
+        "Amsterdam": {
+            "Flight_ID": "V200",
+            "Departure": "Marseille"
+        },
+        "Marseille": {
+            "Flight_ID": "V890",
+            "Departure": "Strasbourg"
+        },
+        "Pekin": {
+            "Flight_ID": "V694",
+            "Departure": "Marseille"
+        },
+        "Paris": {
+            "Flight_ID": "V809",
+            "Departure": "Nice"
+        },
+        "NewYork": {
+            "Flight_ID": "V530",
+            "Departure": "Marseille"
+        },
+        "Nice": {
+            "Flight_ID": "V929",
+            "Departure": "Paris"
+        }
+    }
+}
